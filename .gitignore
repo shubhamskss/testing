@@ -1,0 +1,10 @@
+package-lock.json
+node_modules/
+.vscode/
+logs/
+.nyc_output/
+ecosystem.config.js
+.gitsecret/keys/random_seed
+.env
+.TODO
+.DATA
